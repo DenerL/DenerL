@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front-end Developer in transition, passionate about the intersection of design and code. Currently focusing on HTML5, CSS3, JavaScript, and React. I have a knack for turning creative ideas into functional, responsive interfaces. Seeking my first professional opportunity to apply my technical skills and grow within a collaborative environment.
+Estudante de Análise e Desenvolvimento de Sistemas focado em **Engenharia de Dados, Automação de Processos e Infraestrutura de TI**. Tenho experiência prática no desenvolvimento de scripts de telemetria e pipelines locais para coleta e integridade de dados (Python/PowerShell/SQL). Atualmente focado em criar soluções que transformam dados de infraestrutura em insights estratégicos de negócios.
 
 
 ## 🌐 Socials:
