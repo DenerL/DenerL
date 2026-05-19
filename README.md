@@ -17,11 +17,9 @@ Computer Science student specializing in **Data Engineering, Process Automation,
 
 # 📈 Estatísticas do GitHub:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DenerL&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Dener's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenerL&theme=dark&hide_border=false&layout=compact" alt="Most Used Languages" />
-</p>
+🟢 **Current Focus:** Building automated data ingestion pipelines for IT infrastructure monitoring.
+
+*To check my latest code updates, contributions, and project repositories, please navigate to the **Repositories** tab above.*
 
 ---
 <p align="right">
