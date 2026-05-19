@@ -23,6 +23,4 @@ Computer Science student specializing in **Data Engineering, Process Automation,
 
 ---
 
-<p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=DenerL&icon=0&color=0" alt="Visitor Count" />
-</p>
+*To check my latest code updates, contributions, and project repositories, please navigate to the **Repositories** tab above.*
