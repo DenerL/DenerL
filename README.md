@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Análise e Desenvolvimento de Sistemas focado em **Engenharia de Dados, Automação de Processos e Infraestrutura de TI**. Tenho experiência prática no desenvolvimento de scripts de telemetria e pipelines locais para coleta e integridade de dados (Python/PowerShell/SQL). Atualmente focado em criar soluções que transformam dados de infraestrutura em insights estratégicos de negócios.
+Computer Science student specializing in **Data Engineering, Process Automation, and IT Infrastructure**. I have practical experience developing telemetry scripts and local data pipelines for infrastructure monitoring using Python, PowerShell, and SQL. Currently focused on creating robust solutions that turn system and infrastructure logs into actionable business insights.
 
 
 ## 🌐 Socials:
@@ -18,10 +18,12 @@ Estudante de Análise e Desenvolvimento de Sistemas focado em **Engenharia de Da
 # 📈 Estatísticas do GitHub:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DenerL&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenerL&theme=dark&hide_border=false&include_all_commits=true&layout=compact" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DenerL&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Dener's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenerL&theme=dark&hide_border=false&layout=compact" alt="Most Used Languages" />
 </p>
 
 ---
-![Contador de Visitas](https://visitcount.itsvg.in/api?id=DenerL&icon=0&color=0)
+<p align="right">
+  <img src="https://visitcount.itsvg.in/api?id=DenerL&icon=0&color=0" alt="Visitor Count" />
+</p>
