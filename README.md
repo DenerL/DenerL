@@ -22,5 +22,3 @@ Computer Science student specializing in **Data Engineering, Process Automation,
 *To check my latest code updates, contributions, and project repositories, please navigate to the **Repositories** tab above.*
 
 ---
-
-*To check my latest code updates, contributions, and project repositories, please navigate to the **Repositories** tab above.*
